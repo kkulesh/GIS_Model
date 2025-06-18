@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bb8c809d-1fa0-43c7-b6a8-bad141ee048e)
+![image](https://github.com/user-attachments/assets/e21dc223-555a-4a96-8f2b-bdf19e344c9b)
 
 Графіки врожайності по кожній сільськогосподарській культурі за 2015-2022 роки
 
