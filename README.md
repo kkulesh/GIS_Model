@@ -1,4 +1,7 @@
 ![image](https://github.com/user-attachments/assets/bb8c809d-1fa0-43c7-b6a8-bad141ee048e)
+
 Графіки врожайності по кожній сільськогосподарській культурі за 2015-2022 роки
-![image](https://github.com/user-attachments/assets/b1993cbe-47a8-48e5-9903-00024572e759)
+
+![image](https://github.com/user-attachments/assets/16003198-7238-40be-a679-140f0540e4e2)
+
 Карти врожайності областей України (підсумовано всі сільськогосподарські культури разом) за 2015-2022 роки
